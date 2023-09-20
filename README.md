@@ -4,7 +4,7 @@
 ##  Project Description
 This applicaton lets the user put in data for a workday in an orderly and easy to use manner. The user can put in text t remind them 
 of workday events for a standard 9-5 workday. as the day progresses the past sections will be diplayed in grey, the present event in red,
- and the fututre events in green.The data will stay in the hout time block text sections in the local storage of the browser.
+ and the fututre events in green.The data will stay in the hour time block text sections in the local storage of the browser.
 
 ### Contents
 
