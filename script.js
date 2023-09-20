@@ -6,7 +6,7 @@ $(document).ready(function () {
 //dislays the date in certain format
 var today = dayjs();
 $("#currentDay").text(moment().format("MMMM Do YYYY, h:mm:ss a"));
-   //selects text to be added to local storage
+   //moves the text entered into local storage
   $(".saveBtn").on("click", function () {
    
     console.log(this);
