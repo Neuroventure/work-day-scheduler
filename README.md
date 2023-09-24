@@ -14,7 +14,7 @@ of workday events for a standard 9-5 workday. as the day progresses the past sec
 ### Deployed Page
 [Deployed Website via Github Pages](https://neuroventure.github.io/work-day-scheduler/)
 
-![Deployed page Screenshot](./neuroventure.github.io_work-day-scheduler_.png)
+![Deployed page Screenshot]()
 
 
 ### Reference

@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -8,7 +8,7 @@ textarea{
   background: transparent;
   border: 1px;
   resize: none;
-  color: #000000;
+  color: #ffffff;
   border-left: 1px solid black;
   padding: 10px;
 }
@@ -40,9 +40,11 @@ textarea{
 }
 
 .hour {
-  background-color: #ffffff;
-  color: #000000;
-  border-top: 1px dashed #000000;
+  background-color: #1c38d6;
+  color: #ffffff;
+  border-top: 1px dotted #000000;
+  border-left: 1px dotted black;
+  
 }
 
 .past {
@@ -63,8 +65,8 @@ textarea{
 .saveBtn {
   border: 1px solid black;
   padding: 2px;
-  border-radius: 40px;
-  background-color: #06AED5;
+  border-radius: 45px;
+  background-color: #062af8;
   color: white;
 }
 
